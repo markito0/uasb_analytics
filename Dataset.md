@@ -9,13 +9,13 @@ La ruta de donde se obtuvo los datos es:
 ##Datos de Zoologico
 
 ###Información de la fuente
-**Creador:** Richard Forsyth
-**Donante:** Richard S. Forsyth
-          8 Grosvenor Avenida
-          Mapperley Parque
-          Nottingham NG3 5DX
-          0602-621676
-**  Fecha:** 05/15/1990
+**Creador:** Richard Forsyth  
+**Donante:** Richard S. Forsyth  
+8 Grosvenor Avenida  
+Mapperley Parque  
+Nottingham NG3 5DX  
+0602-621676  
+**  Fecha:** 05/15/1990  
 
 ###Información Relevante
 ####Información de los campos: (nombre de tipos de atributo y el valor de dominio)
@@ -40,30 +40,30 @@ La ruta de donde se obtuvo los datos es:
 18. type		Numeric (integer values in range [1,7]) conjunto de animales
 
 ####Conjunto de animales:
-			**Mamiferos**
-           1 (41) aardvark, antelope, bear, boar, buffalo, calf,
-                  cavy, cheetah, deer, dolphin, elephant,
-                  fruitbat, giraffe, girl, goat, gorilla, hamster,
-                  hare, leopard, lion, lynx, mink, mole, mongoose,
-                  opossum, oryx, platypus, polecat, pony,
-                  porpoise, puma, pussycat, raccoon, reindeer,
-                  seal, sealion, squirrel, vampire, vole, wallaby,wolf
-            **Aves**
-           2 (20) chicken, crow, dove, duck, flamingo, gull, hawk,
-                  kiwi, lark, ostrich, parakeet, penguin, pheasant,
-                  rhea, skimmer, skua, sparrow, swan, vulture, wren
-            Reptiles**
-           3 (5)  pitviper, seasnake, slowworm, tortoise, tuatara 
-            **Peces**
-           4 (13) bass, carp, catfish, chub, dogfish, haddock,
-                  herring, pike, piranha, seahorse, sole, stingray, tuna
-            **Anfibios**
-           5 (4)  frog, frog, newt, toad 
-            **Insectos**
-           6 (8)  flea, gnat, honeybee, housefly, ladybird, moth, termite, wasp
-            **Crustaceos**
-           7 (10) clam, crab, crayfish, lobster, octopus,
-                  scorpion, seawasp, slug, starfish, worm
+**Mamiferos**
+1 (41) aardvark, antelope, bear, boar, buffalo, calf,
+cavy, cheetah, deer, dolphin, elephant,
+fruitbat, giraffe, girl, goat, gorilla, hamster,
+hare, leopard, lion, lynx, mink, mole, mongoose,
+opossum, oryx, platypus, polecat, pony,
+porpoise, puma, pussycat, raccoon, reindeer,
+seal, sealion, squirrel, vampire, vole, wallaby,wolf
+**Aves**
+2 (20) chicken, crow, dove, duck, flamingo, gull, hawk,
+kiwi, lark, ostrich, parakeet, penguin, pheasant,
+rhea, skimmer, skua, sparrow, swan, vulture, wren
+**Reptiles**
+3 (5)  pitviper, seasnake, slowworm, tortoise, tuatara 
+**Peces**
+4 (13) bass, carp, catfish, chub, dogfish, haddock,
+herring, pike, piranha, seahorse, sole, stingray, tuna
+**Anfibios**
+5 (4)  frog, frog, newt, toad 
+**Insectos**
+6 (8)  flea, gnat, honeybee, housefly, ladybird, moth, termite, wasp
+**Crustaceos**
+7 (10) clam, crab, crayfish, lobster, octopus,
+scorpion, seawasp, slug, starfish, worm
 
 
 
