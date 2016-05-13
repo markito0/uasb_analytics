@@ -5,6 +5,7 @@
 En este primer análisis, queremos ver si existe alguna relacion entre los animales que tienen pelo(hair), y si son depredadores(predator)
 
 ##Gráfico
+Donde el color azul representa a los animales depredadores, y el rojo a los no depredadores.
 ![alt text](https://github.com/markito0/uasb_analytics/blob/master/grafico1.png "Relación Hair vr Predator")
 
 ##Conclusión
